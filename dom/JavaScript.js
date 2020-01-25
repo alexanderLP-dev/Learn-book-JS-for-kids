@@ -73,7 +73,7 @@ for (let k = 0; k < 5; k++) {
     .fadeIn(k * 1000);
 }
 
-// --- Task 3 Отложенная анимация
+// --- Task 3 Отложенная анимация ---
 
 let p = document.querySelector("h1 + p + p ");
 
