@@ -176,6 +176,8 @@
 
 // --------- Упражнения из книги -------------------
 
+// ----
+
 // var add = function(resultMult, b) {
 //   return resultMult + b;
 // };
@@ -185,6 +187,29 @@
 // };
 
 // var result = add(multiply(36325, 9824), 777);
+
+// console.log(result);
+
+// -----
+
+// var areArraysSame = function(firstArr, secondArr) {
+//   if (firstArr.length != secondArr.length) {
+//     return false;
+//   }
+
+//   for (var i = 0, k = 0; i < firstArr.length, k < secondArr.length; i++, k++) {
+//     var first = firstArr.join(" ");
+//     var second = secondArr.join(" ");
+
+//     if (first === second) {
+//       return true;
+//     } else {
+//       return false;
+//     }
+//   }
+// };
+
+// var result = areArraysSame([1, 2, 3], [1, 2, 3]);
 
 // console.log(result);
 
