@@ -1,0 +1,18 @@
+h1 {
+  font-family: sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  color: grey;
+}
+
+.center {
+  background: #000;
+  display: flex;
+  justify-content: center;
+  padding: 50px 0;
+}
+
+canvas {
+  background: #fff;
+  border: 2px dashed grey;
+}
