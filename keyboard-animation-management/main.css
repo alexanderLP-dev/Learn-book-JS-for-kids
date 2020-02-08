@@ -1,0 +1,23 @@
+h1,
+h2 {
+  text-align: center;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  color: grey;
+}
+
+h2 {
+  color: red;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  padding: 5% 0;
+  background: #000;
+}
+
+canvas {
+  background: #fff;
+  border: 1px dashed grey;
+}
