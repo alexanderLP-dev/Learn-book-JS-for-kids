@@ -1,0 +1,18 @@
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-family: sans-serif;
+  color: cyan;
+}
+
+.canvas-block {
+  display: flex;
+  justify-content: center;
+  padding: 5% 0;
+  background: #000;
+}
+
+canvas {
+  background: #fff;
+  border: 1px dashed black;
+}
